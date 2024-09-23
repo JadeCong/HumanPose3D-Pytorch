@@ -6,7 +6,7 @@
 
 ## 1. Prerequisites
 
-> Installation of dependencies: pip install -r ./docs/requirements.txt
+> Installation of dependencies: pip install -r ./assets/docs/requirements.txt
 
 ---
 

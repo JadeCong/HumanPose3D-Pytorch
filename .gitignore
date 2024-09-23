@@ -18,4 +18,5 @@
 # Project Config Misc
 build/
 install/
+logs/
 __pycache__/
